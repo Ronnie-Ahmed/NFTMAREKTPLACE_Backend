@@ -1,47 +1,59 @@
-## Getting Started
+# Live : [@Live Project Link](https://nftmarketplace-igfftl5e3-ronnie-ahmed.vercel.app/)
 
-Create a project using this example:
+# NFTMarketPlace Backend section
+# NFTMarketPlace Frontend section (https://github.com/Ronnie-Ahmed/NFTMARKETPLACE)
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
+## Author
 
-You can start editing the page by modifying `contracts/Contract.sol`.
+- [@Ronnie Ahmed_Github](https://www.github.com/Ronnie-Ahmed)
+- [@Ronnie Ahmed_Portfolio](https://portfolio-fl2l.vercel.app/)
+- [@Ronnie Ahmed Linkdin](https://www.linkedin.com/in/ronnie-ahmed-3bb290271/)
 
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
+## Tech Stack
 
-## Building the project
+**Frontend/Backend:** React, TailwindCSS, HTML, Solidity, Ethers.js, Thirdweb, Hardhat
 
-After any changes to the contract, run:
 
-```bash
-npm run build
-# or
-yarn build
-```
+## Installation
 
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) detected on your contract.
+Install my-project with npm
 
-## Deploying Contracts
-
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
+**Frontend:** [@Frontend](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE)
+**Backend:** [@Backend](https://github.com/Ronnie-Ahmed/NFTMAREKTPLACE_Backend)
 
 ```bash
-npm run deploy
-# or
-yarn deploy
+  npm install backend
+  git clone git@github.com:Ronnie-Ahmed/NFTMAREKTPLACE_Backend.git
+  cd NFTMAREKTPLACE_Backend
+  yarn build
+  yarn deploy
 ```
-
-## Releasing Contracts
-
-If you want to release a version of your contracts publicly, you can use one of the followings command:
 
 ```bash
-npm run release
-# or
-yarn release
+  npm install frontend
+  git clone git@github.com:Ronnie-Ahmed/NFTMARKETPLACE.git
+  cd NFTMARKETPLACE
+  npm install
+  npm run start
 ```
 
-## Join our Discord!
+##Project Video
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+[![Thumbnail](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9a4d77ce-084c-4a90-9d4a-c028a186a50f)
+
+
+
+
+
+
+##Screen Shoots
+![Screenshot 2023-06-24 234455](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/474591b1-7d85-4b3f-82b8-e62cb0e3fa0a)
+
+![2](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/70f25b45-7d70-411e-933a-6325a47f7d5d)
+
+![3](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/9b8bc6d3-facf-413d-8fcd-e345f04d7c89)
+
+![4](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/58e4519e-4452-4e9f-a287-19980e1f40bf)
+
+![6](https://github.com/Ronnie-Ahmed/NFTMARKETPLACE/assets/68500792/cfa35566-302a-45ed-9a1b-f498bf0d3379)
